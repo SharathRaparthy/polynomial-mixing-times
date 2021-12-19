@@ -1,4 +1,4 @@
-Official code for Continual Learning In Environments With Polynomial Mixing Times
+Official code for [Continual Learning In Environments With Polynomial Mixing Times](https://arxiv.org/abs/2112.07066)
 
 # Continual Learning in Environments with Polynomial Mixing Times
 This repository provides official code base for the paper "Continual Learning in Environments with Polynomial Mixing Times"
